@@ -161,24 +161,24 @@
         return m;
     };
 
-    var botCreator = "Foxx-Bot";
+    var botCreator = "Matthew aka. Yemasthui";
     var botCreatorIDs = [];
 
     var basicBot = {
-        version: "1.0",
+        version: "2.1.3",
         status: false,
-        name: "Free-Run Bot",
+        name: "basicBot",
         loggedInID: null,
         scriptLink: "https://rawgit.com/Yemasthui/basicBot/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
-        chatLink: "https://rawgit.com/Foxx-Bot/bot/master/lang/czech.json",
+        chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
         settings: {
-            botName: "Free-Run-Bot",
-            language: "czech",
-            chatLink: "https://rawgit.com/Yemasthui/basicBot/master/basicBot.js",
+            botName: "basicBot",
+            language: "english",
+            chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
             maximumAfk: 120,
             afkRemoval: true,
             maximumDc: 60,
