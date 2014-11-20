@@ -169,7 +169,7 @@
         status: false,
         name: "Free-Run Bot",
         loggedInID: null,
-        scriptLink: "https://rawgit.com/Foxx-Bot/bot/master/basicBot.js",
+        scriptLink: "https://cdn.rawgit.com/Foxx-Bot/bot/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
         chatLink: "https://rawgit.com/Foxx-Bot/bot/master/lang/en.json",
         chat: null,
@@ -178,7 +178,7 @@
         settings: {
             botName: "Free-Run-Bot",
             language: "Czech",
-            chatLink: "https://rawgit.com/Foxx-Bot/bot/master/lang/en.json",
+            chatLink: "https://cdn.rawgit.com/Foxx-Bot/bot/master/basicBot.js",
             maximumAfk: 120,
             afkRemoval: true,
             maximumDc: 60,
