@@ -171,7 +171,7 @@
         loggedInID: null,
         scriptLink: "https://rawgit.com/Foxx-Bot/bot/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
-        chatLink: "https://rawgit.com/Foxx-Bot/bot/master/lang/en.json",
+        chatLink: "https://rawgit.com/Foxx-Bot/bot/master/lang/czech.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
