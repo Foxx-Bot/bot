@@ -41,7 +41,7 @@
     var loadChat = function (cb) {
         if (!cb) cb = function () {
         };
-        $.get("https://rawgit.com/Foxx-Bot/bot/master/lang/langIndex.json", function (json) {
+        $.get("https://cdn.jsdelivr.net/gh/Foxx-Bot/bot/lang/langIndex.json", function (json) {
             var link = basicBot.chatLink;
             if (json !== null && typeof json !== "undefined") {
                 langIndex = json;
@@ -169,16 +169,16 @@
         status: false,
         name: "Free-Run Bot",
         loggedInID: null,
-        scriptLink: "https://rawgit.com/Foxx-Bot/bot/master/basicBot.js",
+        scriptLink: "https://cdn.jsdelivr.net/gh/Foxx-Bot/bot/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
-        chatLink: "https://rawgit.com/Foxx-Bot/bot/master/lang/czech.json",
+        chatLink: "https://cdn.jsdelivr.net/gh/Foxx-Bot/bot/lang/czech.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
         settings: {
             botName: "Free-Run-Bot",
             language: "Czech",
-            chatLink: "https://rawgit.com/Foxx-Bot/bot/master/lang/czech.json",
+            chatLink: "https://cdn.jsdelivr.net/gh/Foxx-Bot/bot/lang/czech.json",
             maximumAfk: 120,
             afkRemoval: true,
             maximumDc: 60,

@@ -1,6 +1,6 @@
 {
-    "english": "https://rawgit.com/Foxx-Bot/bot/master/lang/en.json",
-    "portuguese": "https://rawgit.com/Foxx-Bot/bot/master/lang/pt.json",
-    "french": "https://rawgit.com/Foxx-Bot/bot/master/lang/fr.json"
-    "czech": "https://rawgit.com/Foxx-Bot/bot/master/lang/czech.json"
+    "english": "https://cdn.jsdelivr.net/gh/Foxx-Bot/bot/lang/en.json",
+    "portuguese": "https://cdn.jsdelivr.net/gh/Foxx-Bot/bot/lang/pt.json",
+    "french": "https://cdn.jsdelivr.net/gh/Foxx-Bot/bot/lang/fr.json"
+    "czech": "https://cdn.jsdelivr.net/gh/Foxx-Bot/bot/lang/czech.json"
 }
